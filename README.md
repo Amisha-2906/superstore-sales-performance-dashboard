@@ -55,7 +55,7 @@ It highlights total sales, profits, regional trends, and product-level performan
 
 ## 🖼 Dashboard Preview
 
-![Superstore Sales Performance Dashboard](Dashboard_Screenshot.png)
+![Superstore Sales Performance Dashboard](Sales_Dashboard.png)
 
 ---
 
